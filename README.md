@@ -1,6 +1,5 @@
-Work in progress. Should be done by Dec 2 2021. Forked from Phyremaster.
-
-# PaperMC Docker Works With 1.18 (Java 1.17)
+# PaperMC Docker
+Updated: Works With 1.18 (Java 1.17)
 
 This is a Linux Docker image for the PaperMC Minecraft server.
 
